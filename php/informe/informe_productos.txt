@@ -1,0 +1,44 @@
+INFORME DE PRODUCTOS
+
+ID: 2
+Nombre: Leshira
+Precio: 25.5
+Marca: Alpura
+Descripción: Alpura
+Stock: 27
+----------------------
+ID: 3
+Nombre: Café en grano
+Precio: 266
+Marca: Lavazza Oro
+Descripción:  Distribuidora CaféExpress
+Stock: 50
+----------------------
+ID: 4
+Nombre: Café molido
+Precio: 89
+Marca: Nescafé
+Descripción: Caffenio
+Stock: 4
+----------------------
+ID: 5
+Nombre: Azúcar
+Precio: 60
+Marca: Zulka
+Descripción: Grupo Porres y Gam
+Stock: 14
+----------------------
+ID: 6
+Nombre: Té negro
+Precio: 120.5
+Marca: Stash Tea Earl Grey
+Descripción: ‎Kosher
+Stock: 4
+----------------------
+ID: 7
+Nombre: Chocolate
+Precio: 85.5
+Marca: chocolate Abuelita
+Descripción: Le Mexicain
+Stock: 9
+----------------------
